@@ -1,0 +1,2 @@
+ARTIFACT_DIR=distribution
+ARTIFACT_COPY_ARGS="-r target/image/*"
